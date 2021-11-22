@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Shamim Hasan</h1>
-<h3 align="center">A passionate web design and developer from Bangladesh</h3>
+### Hi there 👋, Hey! I'm web design and developer.
+#### A passionate web design and developer from Bangladesh.
+![A passionate web design and developer from Bangladesh.](https://github.com/Shamim-Hasan6300/shamim-hasan/blob/main/web-g8ebd91f85_1920.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim-hasan6300&label=Profile%20views&color=0e75b6&style=flat" alt="shamim-hasan6300" /> </p>
+Hello, This is Shamim Hasan. I'm professional word Press and Web site designer with more than 1 years' experience. I believe i will be excellent for your project. My proficiency includes HTML, CSS, Bootstrap, Wordpress customise. And client satisfaction and relation building are my top priorities. I am confident that. I can fulfil your expectations. If you have questions, please do not hesitate to contact me. Contact Us: shamim6300@gmail.com
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamim-hasan6300" alt="shamim-hasan6300" /></a> </p>
+Skills: J script / REACT JS /  PHP /HTML / CSS / Bootstrap / WordPress  
 
-- 🔭 I’m currently working on **Web User Login Page**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Python, AI, Graphic Design 
+- 📫 How to reach me: shamim6300@gmail.com 
+- ⚡ Fun fact: Yes, I'm funny 
 
-- 🌱 I’m currently learning **Python, AI, Graphic Design etc.**
 
-- 📫 How to reach me **shamim6300@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shamim-Hasan6300)  
 
-- ⚡ Fun fact **Yes, I think i am funny**
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shamim-Hasan6300)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamim-Hasan6300)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamim-Hasan6300&show_icons=true)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim-hasan6300&show_icons=true&locale=en&layout=compact" alt="shamim-hasan6300" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shamim-Hasan6300)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamim-hasan6300&" alt="shamim-hasan6300" /></p>
+![Profile views](https://gpvc.arturio.dev/Shamim-Hasan6300)  
